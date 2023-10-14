@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Weekly-Project/static/css/main.f1719166.css",
+    "main.js": "/Weekly-Project/static/js/main.762e017e.js",
+    "index.html": "/Weekly-Project/index.html",
+    "main.f1719166.css.map": "/Weekly-Project/static/css/main.f1719166.css.map",
+    "main.762e017e.js.map": "/Weekly-Project/static/js/main.762e017e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1719166.css",
+    "static/js/main.762e017e.js"
+  ]
+}
